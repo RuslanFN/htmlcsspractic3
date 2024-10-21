@@ -1,0 +1,106 @@
+body {
+    --font-family: "Gilroy-Bold", sans-serif;
+    --second-family: "Gilroy-Medium", sans-serif;
+    width: 1200px;
+    margin-left: 310px;
+    margin-right: 310px;
+  }
+nav {
+    width: 1170px;
+    height: 40px;
+}
+.home-meta {
+    width: 522px;
+    height: 376px;
+}
+.nav-link {
+    font-family: "Gilroy-SemiBold", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #f25822;
+    font-family: var(--second-family);
+    color: #000;
+}
+.choose-link {
+    font-family: "Gilroy-SemiBold", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #f25822;
+}
+.logo-section{
+    width: 137px;
+    height: 40px;
+}
+.logo {
+    width: 35px;
+    height: 40px;
+    background: url("../img/logo (1).png");
+}
+.logo-title-section{
+    width: 88px;
+    height: 30px;
+}
+.logo-title{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 24px;
+    color: #000;
+}
+.logo-title-be{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 24px;
+    color: #f25822;
+}
+.head1 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 60px;
+    color: #000;
+}
+.head2 {
+    font-family: var(--second-family);
+    font-weight: 400;
+    font-size: 20px;
+    color: #888;
+}
+
+.button-meta {
+    width: 302px;
+    height: 50px;
+}
+.button-start {
+    border-radius: 50px;
+    width: 140px;
+    height: 50px;
+    box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.2);
+    background: #f25822;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 15px;
+    color: #fff;
+    }
+.button-watch {
+    width: 90px;
+    height: 19px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 15px;
+    color: #aaa;
+}
+.image-grand {
+    width: 544px;
+    height: 374px;
+}
+.image-section {
+    width: 610px;
+    height: 372px;
+}
+footer {
+    width: 1200px;
+    height: 50px;
+}
+.image-footer{
+    width: 160px;
+    height: 50px;
+}
